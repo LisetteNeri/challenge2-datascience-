@@ -45,14 +45,10 @@ Importación de datos desde una API local/formato JSON y conversión a un DataFr
    git clone  https://github.com/LisetteNeri/challenge2-datascience-.git
 
 ```
-
 2. Instala las dependencias necesarias:
 ```bash
 pip install pandas matplotlib seaborn
 ```
 3. Abre el archivo `TelecomX_LATAM.ipynb` en VS Code y ejecuta todas las celdas.
----
-
 **Desarrollado por Lisette Neri** *Proyecto realizado como parte del Challenge de Data Science de Alura Latam.*
 
-```
